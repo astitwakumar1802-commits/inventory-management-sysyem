@@ -1,0 +1,2 @@
+@off
+python main.py
